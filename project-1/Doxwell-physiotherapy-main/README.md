@@ -1,4 +1,4 @@
-# healthcare-related-website-V.S.GOPTHREYA
+# Healthcare-related-website-V.S.GOPTHREYA
 
 ## Doxwell Physiotheraphy
 
